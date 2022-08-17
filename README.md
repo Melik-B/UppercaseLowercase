@@ -16,6 +16,14 @@ First of all, the purpose of this <b>SIMPLE CONSOLE PROJECT</b> is to organize m
 - All letters <b>except the FIRST letter</b> of the word entered by the user are made lowercase.
 - The word entered by the user is printed on the screen with the first letter capitalized and the other letters small.
 
+<h3>What will you learn from this project</h3>
+
+- [x] Conditions
+- [x] Methods
+    - [x] Substring Command
+    - [x] ToLower Command
+    - [x] ToUpper Command
+
 <h3>Built With</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 <img src="https://user-images.githubusercontent.com/76618468/185224412-9aa949ad-6e10-4304-9385-8ca74633934b.png" alt="csharp" width="50" height="50"/>
