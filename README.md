@@ -27,3 +27,11 @@ First of all, the purpose of this <b>SIMPLE CONSOLE PROJECT</b> is to organize m
 <h3>Built With</h3>
 <img src="https://user-images.githubusercontent.com/76618468/185224412-9aa949ad-6e10-4304-9385-8ca74633934b.png" alt="csharp" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
+
+<h1>Contact</h1>
+
+Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail.com
+
+Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
+
+<p align="right">-Melik Baykal</p>
