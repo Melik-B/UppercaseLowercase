@@ -1,5 +1,7 @@
 <h1 align="center">Uppercase Lowercase</h1>
-<img align="center" src="https://user-images.githubusercontent.com/76618468/185210895-153b0b28-c0bd-4b81-8ba7-33fea7d86201.jpg">
+<img align="center" src="https://user-images.githubusercontent.com/76618468/185482132-e824c158-e414-4358-b084-79516bf74eca.jpg">
+<hr>
+<img align="center" src="https://user-images.githubusercontent.com/76618468/185482637-8a7bb60a-a3a1-4c2c-84d9-5a3d3951e516.jpg">
 
 <h3>Uppercase Lowercase :</h3>
 
