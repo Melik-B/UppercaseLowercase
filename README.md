@@ -1,6 +1,8 @@
 <h1 align="center">Uppercase Lowercase</h1>
 <img align="center" src="https://user-images.githubusercontent.com/76618468/185210895-153b0b28-c0bd-4b81-8ba7-33fea7d86201.jpg">
 
+<h3>Uppercase Lowercase :</h3>
+
 First of all, the purpose of this <b>SIMPLE CONSOLE PROJECT</b> is to organize mixed letter sentences and convert only the <b>first letter to UPPERCASE</b> and <b>the other letters to LOWERCASE.</b>
 
 ```bash
