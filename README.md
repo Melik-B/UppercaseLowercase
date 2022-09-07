@@ -38,4 +38,4 @@ Melik Baykal - [@lilMellik](https://twitter.com/lilMellik) - melikbaykal06@gmail
 
 Project Link: [UpperCase LowerCase](https://github.com/Melik-B/UppercaseLowercase)
 
-<p align="right">-Melik Baykal</p>
+<p align="right">-Melik Bayka</p>
